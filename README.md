@@ -11,4 +11,4 @@ OS Simulator simulates some algorithms like
 
 -Dining Philosphers
 
-Java eclipse is the platform used for implementing na dsimulating the algorithms.
+Java eclipse is the platform used for implementing and simulating the algorithms.
